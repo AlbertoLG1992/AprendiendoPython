@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="715ef13f-2a55-4233-a251-86a4f97d88db" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejemplos/2-EstructuraDelLenguaje/FuncionesYConstantesPredefinidas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplos/2-EstructuraDelLenguaje/FuncionesYConstantesPredefinidas.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,46 +13,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ejemplos/1-HolaMundo/HolaMundo.py">
+        <entry file="file://$PROJECT_DIR$/Ejemplos/4-EstructuraDeControl/Condicionales.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="270">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ejemplos/2-EstructuraDelLenguaje/EstructuraDelPrograma.py">
+        <entry file="file://$PROJECT_DIR$/Ejercicios/2-EstructuraDeControl-Condicionales/ParImpar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="216">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ejemplos/2-EstructuraDelLenguaje/FuncionesYConstantesPredefinidas.py">
+        <entry file="file://$PROJECT_DIR$/Ejercicios/2-EstructuraDeControl-Condicionales/NumMes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            <state relative-caret-position="270">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ejemplos/2-EstructuraDelLenguaje/EntradaYSalidaDatos.py">
+        <entry file="file://$PROJECT_DIR$/Ejercicios/2-EstructuraDeControl-Condicionales/Bisiesto.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+            <state relative-caret-position="135">
+              <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ejercicios/2-EstructuraDeControl-Condicionales/Mayusculas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ejemplos/4-EstructuraDeControl/Repetitivas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="36" column="90" selection-start-line="36" selection-start-column="90" selection-end-line="36" selection-end-column="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas/TablaMultiplicar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas/Factorial.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas/AdivinarNumero.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Ejemplos/3-TiposDeDatosNumericos/TypoDatosBooleanos.py">
+        <entry file="file://$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas/ForMultiples.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="20" column="78" selection-start-line="20" selection-start-column="78" selection-end-line="20" selection-end-column="78" />
+            <state relative-caret-position="135">
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -81,6 +125,24 @@
         <option value="$PROJECT_DIR$/Ejemplos/3-TiposDeDatosNumericos/TypoDatosBooleanos.py" />
         <option value="$PROJECT_DIR$/Ejemplos/2-EstructuraDelLenguaje/EntradaYSalidaDatos.py" />
         <option value="$PROJECT_DIR$/Ejemplos/2-EstructuraDelLenguaje/FuncionesYConstantesPredefinidas.py" />
+        <option value="$PROJECT_DIR$/Ejercicios/1-EjerciciosSencillos/CalcularPerimetro.py" />
+        <option value="$PROJECT_DIR$/Ejercicios/1-EjerciciosSencillos/Saludo.py" />
+        <option value="$PROJECT_DIR$/Ejercicios/1-EjerciciosSencillos/CalcularPerimetroCirculo.py" />
+        <option value="$PROJECT_DIR$/Ejercicios/1-EjerciciosSencillos/CalcularPerimetroTriangulo.py" />
+        <option value="$PROJECT_DIR$/Ejercicios/1-EjerciciosSencillos/CalcularNumeros.py" />
+        <option value="$PROJECT_DIR$/Ejercicios/1-EjerciciosSencillos/MilPalabras.py" />
+        <option value="$PROJECT_DIR$/Ejercicios/1-EjerciciosSencillos/Minutos.py" />
+        <option value="$PROJECT_DIR$/Ejemplos/4-EstructuraDeControl/EstructuraDeControlAlternativas.py" />
+        <option value="$PROJECT_DIR$/Ejercicios/2-EstructuraDeControl/ParImpar.py" />
+        <option value="$PROJECT_DIR$/Ejercicios/2-EstructuraDeControl/NumDia.py" />
+        <option value="$PROJECT_DIR$/Ejercicios/2-EstructuraDeControl/NumMes.py" />
+        <option value="$PROJECT_DIR$/Ejercicios/2-EstructuraDeControl/Bisiesto.py" />
+        <option value="$PROJECT_DIR$/Ejercicios/2-EstructuraDeControl/Mayusculas.py" />
+        <option value="$PROJECT_DIR$/Ejemplos/4-EstructuraDeControl/Repetitivas.py" />
+        <option value="$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas/TablaMultiplicar.py" />
+        <option value="$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas/Factorial.py" />
+        <option value="$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas/AdivinarNumero.py" />
+        <option value="$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas/ForMultiples.py" />
       </list>
     </option>
   </component>
@@ -98,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,15 +191,44 @@
               <item name="Ejemplos" type="462c0819:PsiDirectoryNode" />
               <item name="3-TiposDeDatosNumericos" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AprendiendoPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AprendiendoPython" type="462c0819:PsiDirectoryNode" />
+              <item name="Ejemplos" type="462c0819:PsiDirectoryNode" />
+              <item name="4-EstructuraDeControl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AprendiendoPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AprendiendoPython" type="462c0819:PsiDirectoryNode" />
+              <item name="Ejercicios" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AprendiendoPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AprendiendoPython" type="462c0819:PsiDirectoryNode" />
+              <item name="Ejercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="1-EjerciciosSencillos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AprendiendoPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AprendiendoPython" type="462c0819:PsiDirectoryNode" />
+              <item name="Ejercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="2-EstructuraDeControl-Condicionales" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AprendiendoPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AprendiendoPython" type="462c0819:PsiDirectoryNode" />
+              <item name="Ejercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="3-EstructuraDeControl-Repetitivas" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspaces\PycharmProjects\AprendiendoPython\Ejercicios" />
       <recent name="D:\Workspaces\PycharmProjects\AprendiendoPython\Ejemplos" />
     </key>
   </component>
@@ -152,8 +244,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TypoDatosNumericos">
-    <configuration name="EntradaYSalidaDatos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ForMultiples">
+    <configuration name="AdivinarNumero" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AprendiendoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejemplos/2-EstructuraDelLenguaje" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejemplos/2-EstructuraDelLenguaje/EntradaYSalidaDatos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas/AdivinarNumero.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EstructuraDelPrograma" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AprendiendoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,11 +274,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejemplos/2-EstructuraDelLenguaje" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejemplos/2-EstructuraDelLenguaje/EstructuraDelPrograma.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas/Factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +287,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FuncionesYConstantesPredefinidas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ForMultiples" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AprendiendoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,11 +295,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejemplos/2-EstructuraDelLenguaje" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejemplos/2-EstructuraDelLenguaje/FuncionesYConstantesPredefinidas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas/ForMultiples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,7 +308,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HolaMundo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Repetitivas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AprendiendoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,11 +316,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejemplos/1-HolaMundo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejemplos/4-EstructuraDeControl" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejemplos/1-HolaMundo/HolaMundo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejemplos/4-EstructuraDeControl/Repetitivas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,7 +329,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TypoDatosNumericos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TablaMultiplicar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AprendiendoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,11 +337,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejemplos/3-TiposDeDatosNumericos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Workspaces\PycharmProjects\AprendiendoPython\Ejemplos\3-TiposDeDatosNumericos\TypoDatosBooleanos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas/TablaMultiplicar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,11 +352,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.TypoDatosNumericos" />
-        <item itemvalue="Python.EntradaYSalidaDatos" />
-        <item itemvalue="Python.FuncionesYConstantesPredefinidas" />
-        <item itemvalue="Python.EstructuraDelPrograma" />
-        <item itemvalue="Python.HolaMundo" />
+        <item itemvalue="Python.ForMultiples" />
+        <item itemvalue="Python.AdivinarNumero" />
+        <item itemvalue="Python.Factorial" />
+        <item itemvalue="Python.TablaMultiplicar" />
+        <item itemvalue="Python.Repetitivas" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +392,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
@@ -316,10 +408,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Ejemplos/__init__.py" />
     <entry file="file://$PROJECT_DIR$/1-HolaMundo/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/Ejemplos/2-EstructuraDelLenguaje/EntradaYSalidaDatos.py">
+    <entry file="file://$PROJECT_DIR$/Ejemplos/1-HolaMundo/HolaMundo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/2-EstructuraDelLenguaje/EstructuraDelPrograma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
@@ -330,17 +429,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ejemplos/2-EstructuraDelLenguaje/EstructuraDelPrograma.py">
+    <entry file="file://$PROJECT_DIR$/Ejemplos/2-EstructuraDelLenguaje/EntradaYSalidaDatos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="352">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ejemplos/1-HolaMundo/HolaMundo.py">
+    <entry file="file://$PROJECT_DIR$/Ejercicios/1-EjerciciosSencillos/Saludo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejercicios/1-EjerciciosSencillos/CalcularPerimetroCirculo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejercicios/1-EjerciciosSencillos/CalcularPerimetroTriangulo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="45" selection-start-column="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejercicios/1-EjerciciosSencillos/CalcularNumeros.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejercicios/1-EjerciciosSencillos/MilPalabras.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="87" selection-start-column="87" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejercicios/1-EjerciciosSencillos/Minutos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="66" selection-start-line="4" selection-start-column="66" selection-end-line="4" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -348,6 +482,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="20" column="78" selection-start-line="20" selection-start-column="78" selection-end-line="20" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/4-EstructuraDeControl/Condicionales.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejercicios/2-EstructuraDeControl-Condicionales/ParImpar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejercicios/2-EstructuraDeControl-Condicionales/NumMes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejercicios/2-EstructuraDeControl-Condicionales/Bisiesto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejercicios/2-EstructuraDeControl-Condicionales/Mayusculas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplos/4-EstructuraDeControl/Repetitivas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="36" column="90" selection-start-line="36" selection-start-column="90" selection-end-line="36" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas/AdivinarNumero.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas/TablaMultiplicar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas/Factorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejercicios/3-EstructuraDeControl-Repetitivas/ForMultiples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
         </state>
       </provider>
     </entry>
